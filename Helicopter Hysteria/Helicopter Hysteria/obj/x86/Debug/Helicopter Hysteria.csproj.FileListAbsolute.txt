@@ -1,0 +1,8 @@
+C:\Users\Anthony Benavente\Git\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\bin\x86\Debug\Helicopter Hysteria.exe
+C:\Users\Anthony Benavente\Git\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\bin\x86\Debug\Helicopter Hysteria.pdb
+C:\Users\Anthony Benavente\Git\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\obj\x86\Debug\Helicopter Hysteria.csprojResolveAssemblyReference.cache
+C:\Users\Anthony Benavente\Git\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Anthony Benavente\Git\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\obj\x86\Debug\Helicopter Hysteria.exe
+C:\Users\Anthony Benavente\Git\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\obj\x86\Debug\Helicopter Hysteria.pdb
+C:\Users\Anthony Benavente\Git\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\bin\x86\Debug\GameHelperLibrary.dll
+C:\Users\Anthony Benavente\Git\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\bin\x86\Debug\GameHelperLibrary.pdb
