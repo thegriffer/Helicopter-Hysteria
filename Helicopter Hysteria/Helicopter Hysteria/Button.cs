@@ -64,7 +64,7 @@ namespace Helicopter_Hysteria
 
         public void Draw(SpriteBatch batch, GameTime gameTime)
         {
-            batch.Draw(border, Bounds, Color.Black);
+           
             batch.Draw(overlay, Bounds, Color.White * overlayOpacity);
         }
 

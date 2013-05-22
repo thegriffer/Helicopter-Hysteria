@@ -6,3 +6,13 @@ C:\Users\Anthony Benavente\Git\Helicopter-Hysteria\Helicopter Hysteria\Helicopte
 C:\Users\Anthony Benavente\Git\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\obj\x86\Debug\Helicopter Hysteria.pdb
 C:\Users\Anthony Benavente\Git\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\bin\x86\Debug\GameHelperLibrary.dll
 C:\Users\Anthony Benavente\Git\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\bin\x86\Debug\GameHelperLibrary.pdb
+C:\Users\Griffin\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\bin\x86\Debug\Helicopter Hysteria.exe
+C:\Users\Griffin\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\bin\x86\Debug\Helicopter Hysteria.pdb
+C:\Users\Griffin\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\bin\x86\Debug\GameHelperLibrary.dll
+C:\Users\Griffin\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\bin\x86\Debug\GameHelperLibrary.pdb
+C:\Users\Griffin\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\obj\x86\Debug\Helicopter Hysteria.csprojResolveAssemblyReference.cache
+C:\Users\Griffin\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Griffin\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\obj\x86\Debug\Helicopter Hysteria.exe
+C:\Users\Griffin\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\obj\x86\Debug\Helicopter Hysteria.pdb
+C:\Users\Griffin\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\bin\x86\Debug\Content\titleScreen copy.xnb
+C:\Users\Griffin\Helicopter-Hysteria\Helicopter Hysteria\Helicopter Hysteria\bin\x86\Debug\Content\skyFall.xnb
