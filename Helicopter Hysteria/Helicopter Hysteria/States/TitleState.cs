@@ -21,21 +21,31 @@ namespace Helicopter_Hysteria.States
         {
             base.LoadContent();
 
-            // Insert content.load stuff here
-
-            // How to create a button.
-
-            // Step 1: initialize the button 
+            /****************************/
+            /** HOW TO CREATE A BUTTON **/
+            /****************************/
+            
+            /*****************************/
+            /********** Step 1 ***********/ 
+            /*** Initialize the button ***/
+            /*****************************/
             // Parameter 1: Point that represents the location of the button (new Point(10, 0))
             // Parameter 2: the width of the button (150)
             // Parameter 3: the height of the button (50)
             // Parameter 4: the state that contains the button... (this)
             testChangeStateButton = new Button(new Point(10, 0), 150, 50, this);
 
-            // Step 2: name the button
+            /*****************************/
+            /*********** Step 2 **********/ 
+            /****** Name the button ******/
+            /*****************************/
             testChangeStateButton.Name = "btnTest";
 
-            // Step 3: make a function that happens when the button is clicked
+            /******************************/
+            /*********** Step 3 ***********/
+            /**** Set the what happens ****/
+            /******************************/
+            // Make a function that happens when the button is clicked
             // This is the syntax.  HappensWhenTheButtonIsClicked is actually 
             // a function, but when assigning events, you don't include parenthesis
             testChangeStateButton.OnClick += HappensWhenTheButtonIsClicked;

@@ -29,6 +29,7 @@ namespace Helicopter_Hysteria.States
         protected void SwitchState(GameState targetState)
         {
             StateManager.TargetState = targetState;
+            IsExiting = true;
         }
     }
 }
