@@ -8,6 +8,8 @@ using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
+using GameHelperLibrary;
+using Helicopter_Hysteria.States;
 
 namespace Helicopter_Hysteria
 {
@@ -18,6 +20,7 @@ namespace Helicopter_Hysteria
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        GameStateManager manager;
 
         public Game1()
         {
@@ -34,6 +37,9 @@ namespace Helicopter_Hysteria
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
+            manager = new GameStateManager(this);
+            Components.Add(manager);
+            manager.ChangeState(new TitleState(this, manager));
 
             base.Initialize();
         }
